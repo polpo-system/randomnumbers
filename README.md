@@ -7,4 +7,5 @@ the desktop). It needs `Math` (the package math).
 From ETH Oberon (OLR), converted to plain text. `test/RNTest.Mod`: `RNTest.Run` checks the
 range and the means; it needs the desktop (DISPLAY).
 
-Install with portia: `portia.Install randomnumbers`. The license is the one of ETH Oberon: `LICENSE`.
+Install with portia: `portia.Install randomnumbers`. The license is GPL-3 (`LICENSE`); the code comes from ETH Oberon, whose license (`LICENSE.ETH`)
+asks to keep its copyright notice and conditions, which `LICENSE.ETH` does.
